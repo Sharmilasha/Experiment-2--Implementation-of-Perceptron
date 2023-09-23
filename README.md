@@ -119,12 +119,12 @@ plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
 ```
-##output
-Dataset
+### output:
+Dataset:
 ![nn1](https://github.com/Sharmilasha/Experiment-2--Implementation-of-Perceptron/assets/94506182/00cbb78a-e1f1-42f6-9bea-c55c6525bad1)
-Scatterplot
+Scatterplot:
 ![nn2](https://github.com/Sharmilasha/Experiment-2--Implementation-of-Perceptron/assets/94506182/04f2cfe0-e460-471c-aa61-87122f70b60d)
-Error Plot with Accuracy
+Error Plot with Accuracy:
 ![nn3](https://github.com/Sharmilasha/Experiment-2--Implementation-of-Perceptron/assets/94506182/e7c718c2-4ccf-4f67-90ba-182fb8896fc0)
-Result:
+### Result:
 Thus a perceptron for classification is implemented using python.
